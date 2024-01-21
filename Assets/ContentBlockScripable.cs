@@ -10,43 +10,30 @@ public class ContentBlockScripable : ScriptableObject
 
     private int currentIndex;
 
-    public List<ItemModel> Items => _items;
+    public List<ItemModel> Iriwrisdfsdgdfg(Oorworosdofsdf type) {
 
-    private Dictionary<string, List<ItemModel>> _sortedItems;
-
-    private void OnEnable()
-    {
-        _sortedItems = new Dictionary<string, List<ItemModel>>();
-    }
-
-    public List<ItemModel> GetItemsByType(PlayerType type) {
-
-        var list = new List<ItemModel>();
+        var ghdfhgdhghfdg = new List<ItemModel>();
 
         foreach (var item in _items)
         {
-            if (item.playerType == type)
+            if (item.oorworosdofsdf == type)
             {
-                list.Add(item);
+                ghdfhgdhghfdg.Add(item);
             }
         }
 
-        return list;
+        return ghdfhgdhghfdg;
     }
 
     #region SoInit
     public void CreateItem()
     {
-        if (_items == null)
-        {
-            _items = new List<ItemModel>();
-        }
+        _items ??= new List<ItemModel>();
 
-        var item = new ItemModel();
+        var sdfjsdjfsjdf = new ItemModel();
         
-        _items.Add(item);
-        //item.ID = _items.Count;
-        currentItem = item;
+        _items.Add(sdfjsdjfsjdf);
+        currentItem = sdfjsdjfsjdf;
         currentIndex = _items.Count - 1;
     }
 
@@ -69,22 +56,20 @@ public class ContentBlockScripable : ScriptableObject
     }
     public void PrevItem()
     {
-        if (currentIndex > 0)
-        {
-            currentIndex--;
-            currentItem = _items[currentIndex];
-        }
+        if (currentIndex <= 0) return;
+        currentIndex--;
+        currentItem = _items[currentIndex];
     }
     #endregion
 }
 
-public enum PlayerType {
-    FORWARD, MIDFIELDER, DEFENDER, GOALKEEPER
+public enum Oorworosdofsdf {
+    GERMAN_SOCCERS
 }
 
 [System.Serializable]
 public class ItemModel {
-    public PlayerType playerType;
+    public Oorworosdofsdf oorworosdofsdf;
     public int id;
     public string playerName;
     public string playerInfo;
