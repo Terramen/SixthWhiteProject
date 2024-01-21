@@ -10,7 +10,7 @@ public class Krweiriwfisdifs : MonoBehaviour
     [SerializeField] private TMP_Text _sdkjfskdfkskdf;
     [SerializeField] private Image _erqwyrydfysdf;
 
-    [SerializeField] private ContentBlockScripable _rewqrywyfsdyfs;
+    [SerializeField] private Jrwersdfsfgererdg _rewqrywyfsdyfs;
 
     [SerializeField] private GameObject _jeqwjejqjsasd;
     [SerializeField] private GameObject _sdkfskewkrwekwef;
@@ -34,9 +34,9 @@ public class Krweiriwfisdifs : MonoBehaviour
     }
     
     public void Lorweorosdfsodf() {
-        _rwerwsjfjsdjf.text = _currentList[_currentId].playerName;
-        _erqwyrydfysdf.sprite = _currentList[_currentId].playerPhoto;
-        _sdkjfskdfkskdf.text = _currentList[_currentId].playerInfo;
+        _rwerwsjfjsdjf.text = _currentList[_currentId].fsdfksdfsdkf;
+        _erqwyrydfysdf.sprite = _currentList[_currentId].eqwjjjwjejfjds;
+        _sdkjfskdfkskdf.text = _currentList[_currentId].rkwekksdfkskdf;
     }
 
     public void Orweorosdofsgsdgdfg() {

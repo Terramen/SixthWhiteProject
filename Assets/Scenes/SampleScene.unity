@@ -217,7 +217,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &41433827
 RectTransform:
   m_ObjectHideFlags: 0
@@ -851,8 +851,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 17.0659, y: 300}
+  m_AnchoredPosition: {x: 40.23987, y: 0}
+  m_SizeDelta: {x: -80.23987, y: 300}
   m_Pivot: {x: 0, y: 1}
 --- !u!1 &339215547
 GameObject:
@@ -1203,8 +1203,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Loading...
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 5966f28196d3729438bb0cb005c7feaf, type: 2}
-  m_sharedMaterial: {fileID: 1778223019146496225, guid: 5966f28196d3729438bb0cb005c7feaf, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: dfb091c728c516c438cb42da57b48c2c, type: 2}
+  m_sharedMaterial: {fileID: 4401292190848412806, guid: dfb091c728c516c438cb42da57b48c2c, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -1228,8 +1228,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 81
-  m_fontSizeBase: 81
+  m_fontSize: 160
+  m_fontSizeBase: 160
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1317,8 +1317,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -1.7351074, y: -251}
-  m_SizeDelta: {x: -103.4702, y: -2578}
+  m_AnchoredPosition: {x: 47.635, y: -251}
+  m_SizeDelta: {x: -4.7302, y: -2578}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &490397326
 MonoBehaviour:
@@ -1545,7 +1545,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c06c3d73bb0071f44a9f3c57b44025f1, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7b5f74e3c2665b1449db6ade433fef77, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2438,7 +2438,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 490397329}
         m_TargetAssemblyTypeName: CurrentTextSize, Assembly-CSharp
-        m_MethodName: CheckTextBlock
+        m_MethodName: Kfktfjerrtjwjfwe
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

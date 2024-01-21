@@ -3,23 +3,23 @@ using System.Collections.Generic;
 using UnityEditor;
 using UnityEngine;
 
-[CustomEditor(typeof(ContentBlockScripable))]
+[CustomEditor(typeof(Jrwersdfsfgererdg))]
 public class PlayerInfoEditor : Editor {
-    private ContentBlockScripable _itemBase;
+    private Jrwersdfsfgererdg _itemBase;
     private void Awake()
     {
-        _itemBase = (ContentBlockScripable)target;
+        _itemBase = (Jrwersdfsfgererdg)target;
     }
     public override void OnInspectorGUI()
     {
 
         if (GUILayout.Button("New Item"))
         {
-            _itemBase.CreateItem();
+            _itemBase.Jrioweorsdofsodf();
         }
         if (GUILayout.Button("Remove"))
         {
-            _itemBase.RemoveItem();
+            _itemBase.Ieriwqqriifsidf();
         }
         if (GUILayout.Button("Save"))
         {
@@ -32,11 +32,11 @@ public class PlayerInfoEditor : Editor {
         GUILayout.BeginHorizontal();
         if (GUILayout.Button("<"))
         {
-            _itemBase.PrevItem();
+            _itemBase.Jeqwesysdyfsd();
         }
         if (GUILayout.Button(">"))
         {
-            _itemBase.NextItem();
+            _itemBase.Kkfskkxkvxkcv();
         }
         GUILayout.EndHorizontal();
 

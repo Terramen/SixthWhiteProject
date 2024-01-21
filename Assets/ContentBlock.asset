@@ -12,382 +12,343 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 87c634d33705176469dcdb72a6b5da05, type: 3}
   m_Name: ContentBlock
   m_EditorClassIdentifier: 
-  _items:
-  - playerType: 0
+  _jkerjjsdfjdjf:
+  - oorworosdofsdf: 0
     id: 0
-    playerName: Roberto Baggio
-    playerInfo: Baggio was an iconic Italian footballer who lit up the domestic and
-      international scene with his guile and ability to create and score goals. At
-      the peak of his career, he won FIFA World Player of the Year in 1993. In total,
-      he scored 392 goals and won 2 Serie A titles. He failed to win a single top
-      award at the international level. The closest he came was at the 1994 World
-      Cup, when his Italy team lost to Brazil.
-    playerPhoto: {fileID: 21300000, guid: 3153856ddefa5a54096efe4698195088, type: 3}
-  - playerType: 0
+    fsdfksdfsdkf: Philipp Lahm
+    rkwekksdfkskdf: Philipp Lahm is a German retired professional footballer who
+      played as a right back or defensive midfielder and spent much of his early
+      career playing left back. He was the captain of Bayern Munich, having led them
+      to numerous honours including the 2013 UEFA Champions League as part of the
+      Treble. He is also a former captain of his national team, which he led to win
+      the 2014 FIFA World Cup, before retiring from international football.Lahm is
+      considered by many to be one of the best defenders of his generation and one
+      of the greatest defenders of all time who was never sent off, and was included
+      in the World Cup team of the tournament in 2006, 2010, and 2014, and the UEFA
+      Team of the Tournament in 2008 and 2012 and in the UEFA Team of the Year 2006,
+      2008, 2012, 2013 and 2014.
+    eqwjjjwjejfjds: {fileID: 21300000, guid: b1cc26bf972967844b327124c98cfe43, type: 3}
+  - oorworosdofsdf: 0
     id: 1
-    playerName: Romario
-    playerInfo: Romario is the third top scorer in football history, officially recognized
-      by FIFA. He was the star of the show when Brazil won the 1994 FIFA World Cup
-      and ended the year with the Ballon Dor award. Romario was very successful both
-      in Europe and in his native Brazil. His trophies include multiple participations
-      in the Spanish and Dutch championships, domestic cups, the World Cup with Brazil
-      and the Copa America (2 times).
-    playerPhoto: {fileID: 21300000, guid: ba147facd09090f45a6f9aa7e170658b, type: 3}
-  - playerType: 0
+    fsdfksdfsdkf: Manuel Neuer
+    rkwekksdfkskdf: Manuel Peter Neuer (born 27 March 1986) is a German professional
+      footballer who plays as a goalkeeper and captain for both Bayern Munich and
+      the Germany national team. Neuer has been described as a "sweeper-keeper" because
+      of his unique playing style and speed when rushing off his line to anticipate
+      opponents; he is also known for his quick reflexes, excellent shot-stopping
+      abilities, strength, long throwing range, command of his area, and accurate
+      control and distribution of the ball.Regarded by pundits as the best goalkeeper
+      in the world (he won the IFFHS World's Best Goalkeeper award for four consecutive
+      years between 2013 and 2016), and as one of the best and most complete goalkeepers
+      of all-time, Neuer won the 2014 FIFA World Cup with Germany as well as the
+      Golden Glove award for being the best goalkeeper in the tournament, and is
+      considered by some in the sport to be the best goalkeeper in football since
+      Lev Yashin.In 2014, Neuer finished third in the voting, behind Lionel Messi
+      and Cristiano Ronaldo, for the FIFA Ballon d'Or award.
+    eqwjjjwjejfjds: {fileID: 21300000, guid: 27501ca6844eb684ea80f4cc93b83a77, type: 3}
+  - oorworosdofsdf: 0
     id: 2
-    playerName: Ferenc Puskas
-    playerInfo: "Ferenc Pusk\xE1s is considered one of the greatest players and greatest
-      striker to ever step onto a football field. As a striker, the Hungarian scored
-      162 goals in 123 international matches. In domestic championships he scored
-      514 goals in 529 matches. His brilliant performances led Los Blancos to five
-      consecutive league titles and three European Cups.\L\L"
-    playerPhoto: {fileID: 21300000, guid: 02c1924343f4b9644a1c72a3a77f1ed2, type: 3}
-  - playerType: 0
+    fsdfksdfsdkf: Toni Kroos
+    rkwekksdfkskdf: Toni Kroos (born 4 January 1990) is a German professional footballer
+      who plays for Spanish club Real Madrid and the German national team. Kroos
+      plays mainly as a central midfielder, but is also used as a defensive midfielder
+      or deep-lying playmaker. He is known for his vision, creativity, passing, and
+      set-piece ability, and is widely considered to be one of the best midfielders
+      in the world.Born in the small German city of Greifswald, Kroos began his senior
+      club career playing for Bayern Munich, where he made his debut at age 17 in
+      2007. He was sparingly used, and quickly opted for an 18-month loan spell at
+      fellow Bundesliga side Bayer Leverkusen, where he became a key contributor,
+      and returned to his parent club with an increased profile in 2010. Kroos then
+      became indispensable for the Bavarian club, and was critical to several successes,
+      including two consecutive league titles, a UEFA Champions League title, and
+      two DFB-Pokal titles.
+    eqwjjjwjejfjds: {fileID: 21300000, guid: ff51eb04d5838094eb83fd7c520643df, type: 3}
+  - oorworosdofsdf: 0
     id: 3
-    playerName: Alfredo Di Stefano
-    playerInfo: He was known by the nickname "Blonde Arrow" due to his ability to
-      never miss his target. Alfredo Di Stefano changed the entire history of Madrid
-      and made the club his legacy. He scored 216 goals in 282 matches for Real Madrid.
-      Di Stefano's 49 goals in 58 matches became a record in the history of his performances
-      in European competition. Di Stefano was awarded the Ballon d'Or as European
-      Footballer of the Year in 1957 and 1959. Michel Platini also called Di Stefano
-      "a great among greats.
-    playerPhoto: {fileID: 21300000, guid: ea6e294fe92d8cd49957d269e330fc2b, type: 3}
-  - playerType: 0
+    fsdfksdfsdkf: Bastian Schweinsteiger
+    rkwekksdfkskdf: Bastian Schweinsteiger; born 1 August 1984) is a German professional
+      footballer who plays as a midfielder for Major League Soccer club Chicago Fire.
+      A right-footed player, he usually plays as central midfielder. Earlier in his
+      career, he primarily played as a wide midfielder. He spent 17 seasons at Bayern
+      Munich, playing in exactly 500 matches across all competitions and scoring
+      68 goals. His honours at the club include eight Bundesliga titles, seven DFB-Pokal
+      titles, a UEFA Champions League title, a FIFA Club World Cup title and a UEFA
+      Super Cup title. He joined Manchester United in 2015, playing sparingly for
+      18 months before moving to Chicago Fire. Schweinsteiger played for the German
+      national team from 2004 to 2016. He is Germany's fourth most-capped player
+      of all time, having earned 121 caps and scored 24 goals, in a 12-year international
+      career starting in 2004. He was selected in their squads for four European
+      Championships and three World Cups, including their victory at the 2014 FIFA
+      World Cup.
+    eqwjjjwjejfjds: {fileID: 21300000, guid: ec66d179a38d4b74295f5a6d03fac66c, type: 3}
+  - oorworosdofsdf: 0
     id: 4
-    playerName: Gerd Muller
-    playerInfo: "A proper No.9 player widely known for his clinical finishing abilities.
-      A goal scoring phenomenon. His performance for both club and country is phenomenal.
-      At international level with West Germany he scored a total of 68 goals in 62
-      matches, and at club level with Bayern Munich he scored 365 goals in 427 Bundesliga
-      matches. M\xFCller received the Ballon d'Or in 1970 after leading West Germany
-      to victory at the World Cup."
-    playerPhoto: {fileID: 21300000, guid: 0c595fef206e0ca45a5dd4798421d886, type: 3}
-  - playerType: 0
+    fsdfksdfsdkf: Miroslav Klose
+    rkwekksdfkskdf: Miroslav Josef Klose is a German retired footballer who played
+      as a striker. Klose is the coach of the U17 youth team at Bayern Munich. Klose
+      is best known for his performances with the Germany national team. He was part
+      of the German squad that won the 2014 FIFA World Cup, having previously finished
+      second (2002) and third (2006, 2010) in the competition, and as runner-up in
+      UEFA Euro 2008 and joint-third place in UEFA Euro 2012. Klose is the men's
+      top goalscorer of the FIFA World Cup with 16 goals, having scored five goals
+      in his debut World Cup in 2002 and having won the Golden Boot at the 2006 World
+      Cup in Germany by again scoring five times, surpassed only by Marta. He also
+      scored four times in the 2010 World Cup and twice at the 2014 World Cup, the
+      latter tournament where he overtook Ronaldo's then-record of 15 goals to top
+      the all-time list. Klose is also the top scorer of all time for Germany, which
+      never lost a game in which Klose scored, and one of the very few players ever
+      to have won gold, silver and bronze medals in the World Cup
+    eqwjjjwjejfjds: {fileID: 21300000, guid: 6030f6ae39b10e342b4b81e239e7cb94, type: 3}
+  - oorworosdofsdf: 0
     id: 5
-    playerName: Ronaldo
-    playerInfo: Ronaldo is known as "The Phenomenon" and is also nicknamed R9. He
-      is an inspiration for the coming generation of strikers born. His personal
-      awards include three times FIFA World Player of the Year and two Ballon d'Or
-      awards. His immense pace, acceleration, dribbling and finishing make him unstoppable.
-      He won the FIFA World Player of the Year in 1996, becoming the youngest player
-      to win the award. Ronaldo played a total of 98 matches for the Brazilian national
-      team and scored 62 goals. He was just 17 years old when he was part of the
-      Brazil team that won the 1994 FIFA World Cup. He also won the 1997 Copa America.
-    playerPhoto: {fileID: 21300000, guid: 65e2e668e35c8e242ba5c0e0b169443e, type: 3}
-  - playerType: 0
+    fsdfksdfsdkf: Michael Ballack
+    rkwekksdfkskdf: "Michael Ballack (German pronunciation: [\u02C8m\u026A\xE7a\u02D0\u0294e\u02D0l
+      \u02C8balak]; born 26 September 1976) is a German retired footballer. He is
+      among the top goal scorers in the history of the German national team. Ballack
+      wore the number 13 shirt for every team he has played for, save for 1. FC Kaiserslautern.
+      He was selected by Pel\xE9 as one of FIFA's 100 Greatest Living Players, and
+      as the UEFA Club Midfielder of the Year in 2002. He won the German Footballer
+      of the Year award three times \u2013 in 2002, 2003 and 2005. Ballack was known
+      for his passing range, powerful shot, physical strength and commanding presence
+      in midfield.Ballack began his career as a youth at Chemnitzer FC, his local
+      team, and made his professional debut in 1995. On 26 March 1996, Ballack made
+      his debut for Germany's under-21 side. Although the team were relegated in
+      his first season, his performances in the Regionalliga the following season
+      led to a transfer to 1. FC Kaiserslautern in 1997. He won the Bundesliga in
+      his first season at the club, his first major honour."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: 15d156fae2bbf9848b248adc867451e9, type: 3}
+  - oorworosdofsdf: 0
     id: 6
-    playerName: Cristiano Ronaldo
-    playerInfo: Ronaldo has broken all existing records for the number of goals scored.
-      He became the most goalscoring player in football history with 820 goals. He
-      also became the player with the most international goals with 115. During his
-      career, CR7 won 5 Ballons d'Or and three European Golden Boots. Additionally,
-      he became the 3rd player to win the Champions League 5 times in his career.
-      With Portugal he won the EuroCup in 2016 and the Nations League in 2020. Cristiano
-      Ronaldo is the greatest European footballer of the long period from the late
-      2000s to the present, and one of the greatest footballers of all time. After
-      moving to Real Madrid, he became the most expensive player in the history of
-      football.
-    playerPhoto: {fileID: 21300000, guid: cfc26691d1067fc4c808bce7c7425f2e, type: 3}
-  - playerType: 0
+    fsdfksdfsdkf: Oliver Kahn
+    rkwekksdfkskdf: "Oliver Rolf Kahn (German: [\u02C8\u0254l\u026Av\u0250 \u02C8ka\u02D0n];
+      born 15 June 1969) is a German former football goalkeeper. He started his career
+      in the Karlsruher SC Junior team in 1975. Twelve years later, Kahn made his
+      debut match in the professional squad. In 1994, he was transferred to Bayern
+      Munich for the fee of DM4.6 million, where he played until the end of his career
+      in 2008. His commanding presence in goal and aggressive style earned him nicknames
+      such as Der Titan ([de\u02D0\u0250\u032F ti\u02C8ta\u02D0n], English: the Titan)
+      from the press and Vol-kahn-o (\"volcano\") from fans.Kahn is one of the most
+      successful German players in recent history, having won eight Bundesliga titles,
+      six DFB-Pokals, the UEFA Cup in 1996, the UEFA Champions League and the Intercontinental
+      Cup, both achieved in 2001. Regarded as one of the greatest goalkeepers of
+      all time, his individual contributions have earned him a record four consecutive
+      UEFA Best European Goalkeeper awards, as well as three IFFHS World's Best Goalkeeper
+      awards, and two German Footballer of the Year trophies."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: dc8574b51e0eb3441be924406a0c8c3b, type: 3}
+  - oorworosdofsdf: 0
     id: 7
-    playerName: Lionel Messi
-    playerInfo: 7-time Ballon d'Or winner, 5-time European scoring boot winner, there
-      is no player better or taller than Leo Messi. The wizard has currently scored
-      761 goals and is the fastest player to reach this milestone. He won the 2021
-      Copa America and won all the awards including MVP and Player of the Tournament
-      award. Previously, he led Argentina to 4 finals, including the World Cup final
-      in 2014. Messi is the most influential player at dominant Barcelona, the only
-      club to be crowned three-time European champions twice. In the 2011-2012 season,
-      Messi scored 73 goals in 60 matches for the club and is the highest goalscorer
-      of all time in a single season. He holds the record for the most hat-tricks
-      in the history of a Spanish football club - 32. Messi also holds the record
-      for the most goals in a year for the Argentina national team - 12. Leo holds
-      the record for the most hat-tricks in the history of the European Cup/UEFA
-      Champions League - nine.
-    playerPhoto: {fileID: 21300000, guid: e54c444d4e9577e4294057789392ed38, type: 3}
-  - playerType: 0
+    fsdfksdfsdkf: "Thomas M\xFCller"
+    rkwekksdfkskdf: "Thomas M\xFCller (German pronunciation: [\u02C8to\u02D0mas \u02C8m\u028Fl\u0250];
+      born 13 September 1989) is a German professional footballer who plays for and
+      vice-captains Bayern Munich, and has made 100 appearances for the German national
+      team. A versatile player, M\xFCller plays as a midfielder or forward, and has
+      been deployed in a variety of attacking roles \u2013 as an attacking midfielder,
+      second striker, centre forward and on either wing. He has been praised for
+      his positioning, teamwork and stamina, work-rate, and has shown consistency
+      in both scoring and creating goals.A product of Bayern's youth system, he made
+      his first-team breakthrough in the 2009\u201310 season after Louis van Gaal
+      was appointed as the main coach; he played almost every game as the club won
+      the league and cup double and reached the Champions League final. M\xFCller
+      scored 23 goals in the 2012\u201313 season as Bayern won a historic treble;
+      the league title, cup and Champions League."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: 8944c030a9dac744e95bb73f67f6ce11, type: 3}
+  - oorworosdofsdf: 0
     id: 8
-    playerName: Pele
-    playerInfo: "The greatest of them all, and noted as \"Fifa's Greatest\". Pele
-      is the greatest striker of all time. He was one of the most prosperous and
-      famous sports figures of the 20th century. Pel\xE9 was named the best player
-      of the century by the International Federation of Football History and Statistics
-      (IFFHS) and was one of two collective winners of the FIFA Player of the Century
-      competition. His total of 1,279 goals in 1,363 matches is listed in the Guinness
-      Book of World Records. He spent most of his career with Santos, winning silver
-      medals almost every year. Pele is also the only player in history to win three
-      World Cups. He played a total of 92 matches for the Brazilian national team
-      and scored 77 goals."
-    playerPhoto: {fileID: 21300000, guid: 112e79ae20543d540846675f5847419e, type: 3}
-  - playerType: 1
-    id: 0
-    playerName: Clarence Seedorf
-    playerInfo: Seedorf is the only player in history to win the Champions League
-      for three different clubs. In 1995, he won the trophy with Ajax when he was
-      20 years old. Three years later, Clarence won the Champions League wearing
-      a Real Madrid jersey. Seedorf was not a leading player at these clubs, but
-      after moving to Milan in 2002, the Dutchman finally received recognition. Seedorf
-      became a key figure in Milan. The more attacking Clarence, along with prop
-      Gattuso and dispatcher Pirlo, created the most powerful trio in Italy, which
-      dominated the field for 9 years. At Milan, Seedorf won the Champions League
-      Cup twice more and won two championships.
-    playerPhoto: {fileID: 21300000, guid: 57679e689328f3d4e8fc64eb07404eb9, type: 3}
-  - playerType: 1
-    id: 1
-    playerName: Andrea Pirlo
-    playerInfo: 'Pirlo is one of the best controllers in the history of football.
-      He had excellent vision of the field and an accurate pass, which allowed him
-      to make aggravating passes even from inside the penalty area. Initially, Andrea
-      played as an attacking midfielder, but could not prove himself - he lacked
-      a powerful blow and speed. In 2001, Pirlo moved to Milan, where Carlo Ancelotti
-      moved him into the holding zone. In this position, the Italian became the main
-      player of the team: the distance from the opponent allowed him to better realize
-      his skill of accurate long-range passing. With Milan, Pirlo became Italian
-      champion twice and won two Champions League cups.'
-    playerPhoto: {fileID: 21300000, guid: d4502ca9c59b55043a8f42233b69ef35, type: 3}
-  - playerType: 1
-    id: 2
-    playerName: Xavi
-    playerInfo: 'Xavi is a Barcelona legend and one of the best midfielders in the
-      history of the Spanish national team. He has won 25 different titles with Barcelona,
-      including 8 championships and four Champions League cups. With the national
-      team, he won three tournaments in a row: two European Championships and a World
-      Championship. Xavi spent almost his entire career at Barcelona. Here he played
-      767 matches, scored 85 goals and gave 185 assists. During Pep Guardiola''s
-      tenure as manager, Xavi became a key component of the iconic tiki-taka style
-      of play where the most important thing was to move and hold the ball quickly
-      and prevent opponents from getting close to him.'
-    playerPhoto: {fileID: 21300000, guid: 53e637081dfa14740a186808ba48621a, type: 3}
-  - playerType: 1
-    id: 3
-    playerName: "Andr\xE9s Iniesta"
-    playerInfo: 'Iniesta is the second key player of his generation for Barcelona
-      and the Spanish national team. He played as long at the club as Xavi: he came
-      three years earlier and left three years later. During this time, Andres won
-      32 club trophies, and with the national team he won two European champion titles
-      and one world champion. Iniesta and Xavi were rarely rated separately, but
-      their playing styles were somewhat different. Iniesta is a more attacking player.
-      For club and country, he was responsible for moving the ball in the final third
-      and connecting with finishing combinations. Xavi is a more defensive player
-      who was most often found deep in the field and accelerated the game from there.'
-    playerPhoto: {fileID: 21300000, guid: 1ea938e677faddb4a8a972ea40f95cc5, type: 3}
-  - playerType: 1
-    id: 4
-    playerName: Michel Platini
-    playerInfo: 'Platini is the only football player besides Messi and Ronaldo who
-      received three Golden Balls. During his career, he played in only three clubs,
-      and in each of them he scored more than 50 goals - despite the fact that he
-      played only as a midfielder. With Platini''s help, the average Nancy consistently
-      ranked at the top of the championship and won the French Cup for the first
-      time - Michel scored the winning goal. After Nancy, the Frenchman played in
-      Saint-Etienne, where he became the champion of France, but he truly blossomed
-      in the Italian Juventus. As part of the Turin team, Platini became the champion
-      of Italy twice, won the country''s Cup and won three international tournaments:
-      the Cup Winners'' Cup, the European Cup and the Intercontinental Cup.'
-    playerPhoto: {fileID: 21300000, guid: d897727ede46d884f8532217fe879eb3, type: 3}
-  - playerType: 1
-    id: 5
-    playerName: "Zin\xE9dine Zidane"
-    playerInfo: Zinedine is one of the best midfielders and football players in general
-      in the history of football. He was named FIFA's best player in the world three
-      times, won the Ballon d'Or and was included in the list of the best football
-      players of the 20th century. Zidane became the best football player in the
-      history of France, and after his playing career, he was the first to win three
-      Champions Leagues in a row. Zizou gained the greatest fame while playing for
-      Juventus in Turin and Real Madrid in Spain. At Juventus, he reached the Champions
-      League final three times and won once, and won two Italian champion titles.
-      At Real Madrid, Zidane became a key figure - in order to better use the Frenchman,
-      team coach Vicente Del Bosque even changed the formation. In the 2001/02 season,
-      Zinedine's goal was the winning goal in the Champions League final, and a year
-      later Zizou led the club to the championship in Spain.
-    playerPhoto: {fileID: 21300000, guid: f7c8372a7ba6eb74a8342935b8c68fdb, type: 3}
-  - playerType: 2
-    id: 0
-    playerName: Paolo Maldini
-    playerInfo: Italy is famous for its talented defenders, but to this day no one
-      from this country can stand on par with the undeniable talent of Paolo Maldini.
-      The player nicknamed "Capitano" became a true legend for Milan, a club for
-      which he played 902 times in official matches. With the Rossoneri, Paolo won
-      24 trophies, including 5 victories in the Champions League and 7 in Serie A.
-      With the Italian national team, Maldini did not win the main trophies (European
-      Championship and World Cup), but his benefit for the Squadra Azzurra is priceless.
-    playerPhoto: {fileID: 21300000, guid: a59ad57ac7608fc4bbc1ea1b3afe3b27, type: 3}
-  - playerType: 2
-    id: 1
-    playerName: Alessandro Nesta
-    playerInfo: "Calm and reliable are two words that immediately come to mind when
-      talking about Italian defender Alessandro Nesta. The legendary Pele himself
-      said that in order for the Brazilian team to win with ease, it is necessary
-      that they have Nesta in defense. But alas, Alessandro, nicknamed \u201CThe
-      Boss,\u201D did not play for the Brazilian national team, but for the Italian
-      national team, with which he won gold at the 2006 World Cup. Nesta had a brilliant
-      career, both at club and national team level. The defender began his great
-      journey with Lazio, and continued it in Milan. It is worth saying that with
-      both clubs the footballer won Serie A, and with the Rossoneri he has already
-      won the Champions League twice."
-    playerPhoto: {fileID: 21300000, guid: 2b43f1cd6bbd5214e9d6ca3c85fb240b, type: 3}
-  - playerType: 2
-    id: 2
-    playerName: Roberto Carlos
-    playerInfo: "Roberto Carlos is a Brazilian who has greatly influenced the functionality
-      of full-backs. You could say he revolutionized this position. His incredible
-      speed, pace, desire to constantly run forward and grab the ball from the opponent\u2019s
-      feet simply cannot go unnoticed and unrewarded. Today, Carlos is in the TOP
-      10 of the best defenders in the world in the history of football, and if we
-      look specifically at the left flank, then here he is practically unrivaled
-      to this day, if you do not take Maldini into account. Roberto Carlos had an
-      excellent club career and truly demonstrated his talent in Real Madrid, with
-      whom he won 4 Examples and 3 Champions League Cups. Little Carlos also achieved
-      no less success in the Brazilian national team. The defender became the 2002
-      world champion and in the same year took 2nd place in the Golden Ball nomination."
-    playerPhoto: {fileID: 21300000, guid: 8d4c7b98151a6d74b8800ea13c01e850, type: 3}
-  - playerType: 2
-    id: 3
-    playerName: Philipp Lahm
-    playerInfo: "Philipp Lahm is one of the most famous and popular German football
-      players, who is remembered throughout the world for his consistent fantastic
-      performance. Lahm had an excellent career playing for Bayern Munich at the
-      club level, and the footballer also left international football at the peak
-      of his popularity, winning the 2014 World Cup with the Bundesteam team led
-      by Joachim L\xF6w. Some consider Lahm to be the best right-back in the history
-      of football, although the \u201Clittle giant\u201D has a worthy competitor
-      in this position in Cafu from Brazil. Philipp Lahm had excellent ball control,
-      excellent speed and field vision. He was considered a universal football player,
-      as he could play on the defensive flank and even in the defensive zone. Lam
-      was, in his own way, the team\u2019s dispatcher, and everyone respected him
-      - the German had many leadership qualities."
-    playerPhoto: {fileID: 21300000, guid: db56531fd5c19874199de4263f0d510b, type: 3}
-  - playerType: 2
-    id: 4
-    playerName: Carles Puyol
-    playerInfo: "Many people know this guy by his nicknames \u201CTarzan\u201D, \u201CLionheart\u201D
-      or \u201CShark\u201D. Carles Puyol spent his entire career in the Catalan Barcelona,
-      where he became one of the public's favorites and helped the Blaugranas achieve
-      great heights in the domestic and international arenas. Puol was a brave, selfless
-      and intelligent defender. The coaches loved the Spaniard for his ability to
-      organize the play of his partners in defense - he was the leader and commander
-      of the team, who instilled fear in all the opposing forwards. Puyol was simply
-      superb in terms of tactical strength, playing on the second level and tackling
-      the ball. Carles performed best in central defense, but his versatility also
-      allowed him to play on the right and left flanks."
-    playerPhoto: {fileID: 21300000, guid: b131ab0e2f0d0ff4eba2d8022b3b6140, type: 3}
-  - playerType: 2
-    id: 5
-    playerName: Sergio Ramos
-    playerInfo: "In 2007, at the age of 19, Sergio Ramos moved from Sevilla to Real
-      Madrid for \u20AC27 million, which at that time was a record for young Spanish
-      players. As a result, this transfer became one of the most successful in the
-      history of the \u201Croyal club\u201D. Ramos is a real find for coaches, because
-      he is a versatile defender who is reliable in the back, but also brings a lot
-      of value in front. Sergio loves to connect to attacks and on the second floor
-      this monster simply cannot be outplayed. During his career, the center back
-      scored many important goals and today he is one of the most productive defenders
-      in the world. It is worth noting that the football player scores goals not
-      only from the game, but also often from the penalty spot."
-    playerPhoto: {fileID: 21300000, guid: 605e578ef8efbfb4dac6854dfa24ee21, type: 3}
-  - playerType: 3
-    id: 0
-    playerName: Edwin van der Sar
-    playerInfo: Edwin van der Sar, who was four times Europe's best goalkeeper, had
-      a distinguished career at the club. It all started at Ajax Amsterdam, where
-      he collected numerous national titles and also won the Champions League in
-      1995. After spells with Juventus and Fulham, he again won the Champions League
-      and 4 Premier League titles with Manchester United. Despite 130 caps for the
-      Dutch national team, he did not win a title with the national team.
-    playerPhoto: {fileID: 21300000, guid: b48e4846d0c011a479528f891b2352d2, type: 3}
-  - playerType: 3
-    id: 1
-    playerName: Iker Casillas
-    playerInfo: Iker Casillas' record is impressive both for club and selection.
-      Arriving from Real Madrid's training center, he quickly established himself
-      as a starter and won 5 Spanish Championships, 2 Copa del Reys and 3 Champions
-      Leagues with Casa Blanca. Casillas is also Spain's biggest player with 167
-      caps. He is one of the players who quickly won Euro 2008, World Cup 2010 and
-      Euro 2012. His saves are often crucial and allow Spain to often finish their
-      matches without conceding a single goal.
-    playerPhoto: {fileID: 21300000, guid: 93f0974304ce8fc48ac35fc177db8284, type: 3}
-  - playerType: 3
-    id: 2
-    playerName: Peter Schmeichel
-    playerInfo: 'Peter Schmeichel is one of the best goalkeepers of the 90s. Spotted
-      by the general public during Euro 1992, he played an important role in Denmark''s
-      surprise victory with his numerous saves. With 129 caps, he became the most
-      capped Danish player in history. An iconic Manchester United goalkeeper, he
-      accumulated titles during his 8 years with the Red Devils: 5 Premier League
-      titles, 3 FA Cups and most notably the Champions League in his final year at
-      the club in 1999.'
-    playerPhoto: {fileID: 21300000, guid: 8486788dc34f9984ebc1338aab634445, type: 3}
-  - playerType: 3
-    id: 3
-    playerName: Oliver Kahn
-    playerInfo: A very authoritarian goalkeeper with a strong character, Oliver Kahn
-      was perhaps the best goalkeeper in the world of his time. The German goalkeeper
-      is a worker with a steely mind, capable of always being at peak concentration
-      during matches. His incredible reflexes and relaxation made him one of the
-      best goalkeepers of all time. With Bayern Munich he won 9 national titles,
-      as well as 6 German Cups and a UEFA Cup. After losing the Champions League
-      final in 1999, he finally won the trophy in 2001. In the final, he, in particular,
-      stopped 3 shots on goal and played a big role in his team's victory. Oliver
-      Kahn was voted Best Player of the 2002 World Cup (a first for a goalkeeper),
-      despite losing to Ronaldo of Brazil in the final.
-    playerPhoto: {fileID: 21300000, guid: 11b265f32018f124ab400f8c3b04fc35, type: 3}
-  - playerType: 3
-    id: 4
-    playerName: Gianluigi Buffon
-    playerInfo: Now 40, Buffon is a legend and an example of longevity. His consistency
-      at the top level for over two decades places him among the best goalkeepers
-      in history. He made his debut at Parma, with whom he won the UEFA Cup and Italian
-      Cup in 1999. He then became a legendary Juventus goalkeeper in 2001 and would
-      remain so for almost 17 years. Buffon would win 10 Serie A and 4 Italian Cups
-      with the Turin club, only the Champions League eluding him despite 3 finals
-      in 2003, 2015 and 2017. He is also the most successful player in the Italian
-      selection (176 matches), with whom he participated in 4 European Championships
-      and 5 World Cups, including the one won in 2006 against France.
-    playerPhoto: {fileID: 21300000, guid: 7c16e4f35bdf6e2448a5e90ff3b02efb, type: 3}
-  - playerType: 3
-    id: 5
-    playerName: Manuel Neuer
-    playerInfo: Manuel Neuer is one of the best goalkeepers of this generation. He
-      revolutionized the goalkeeper position, placing very high in the rankings and
-      being much more involved in the game. His runs outside the box and ease with
-      the ball on his feet almost make him look like a libero. Neuer is still active,
-      but he is already a legend of the German team and Bayern Munich, one of the
-      best European clubs in history. As part of the Bavarian club, the German goalkeeper
-      became the German champion 8 times and won the Champions League twice in 2013
-      and 2020. Neuer is also enjoying an excellent career with the national team.
-      After failing in the World Cup semi-finals in 2010 and the Euros in 2012, he
-      finally won the World Cup in 2014. With 10 high-level seasons in Bayern and
-      98 caps for Germany, Neuer is one of the best goalkeepers in history.
-    playerPhoto: {fileID: 21300000, guid: 1626d2dad92eb934aa8e7b527f03ac45, type: 3}
-  - playerType: 3
-    id: 6
-    playerName: Lev Yashin
-    playerInfo: "Lev Yashin is perhaps the best goalkeeper of all time. He is the
-      only goalkeeper in football history to win the Ballon d'Or (1963). He revolutionized
-      the goalkeeping career with his superb performances and new style of play which
-      led to him being named the greatest goalkeeper of the 20th century by FIFA.
-      Lev Yashin leads the USSR to final victory at the 1956 Olympics and Euro 1960.
-      The Russian goalkeeper also helps his team reach the semi-finals of the 1966
-      World Cup. But Yashin has a long career, strewn with titles at his club Dynamo.
-      \u201CBlack Spider,\u201D as he was called, played 365 matches with Dynamo
-      Moscow and won the USSR championship 4 times. He has more than 150 penalties
-      and 270 clean sheets in his career. Lev Yashin was also voted the best goalkeeper
-      in Europe 9 times between 1956 and 1966."
-    playerPhoto: {fileID: 21300000, guid: 1058a008e52fced4b972e2f157b1f68a, type: 3}
+    fsdfksdfsdkf: Marco Reus
+    rkwekksdfkskdf: "Marco Reus (born 31 May 1989) is a German professional footballer
+      who plays as a forward for the Germany national team and Borussia Dortmund,
+      where he is the captain. Reus spent his youth career at Borussia Dortmund,
+      prior to leaving for Rot Weiss Ahlen. He joined Borussia M\xF6nchengladbach
+      in 2009, where he had his most successful season in 2012 when, scoring 18 goals
+      and having 8 assists in the Bundesliga, he helped Borussia M\xF6nchengladbach
+      secure a place in the following season's UEFA Champions League. Reus joined
+      his home club Borussia Dortmund at the end of that season, helping the club
+      reaching the 2013 UEFA Champions League Final in his first season. With Dortmund,
+      Reus won the DFL-Supercup three times in 2013, 2014, 2019 and the DFB-Pokal
+      in 2017, and has scored over 100 goals for the club. With the Germany national
+      team, Reus has only 41 caps, due to his recurring injuries in recent years.
+      He missed the 2014 FIFA World Cup, which Germany won, but played in UEFA Euro
+      2012 and the 2018 FIFA World Cup."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: 67367fe60d925a14593965b3ac538b92, type: 3}
+  - oorworosdofsdf: 0
+    id: 9
+    fsdfksdfsdkf: "Mesut \xD6zil"
+    rkwekksdfkskdf: "Mesut \xD6zil (born 15 October 1988) is a German professional
+      footballer who plays as an attacking midfielder and is the captain of Turkish
+      S\xFCper Lig club Fenerbah\xE7e. \xD6zil is known for his technical skills,
+      creativity, passing skills, and vision. He can also play as a wide midfielder.
+      A German international, \xD6zil holds the record for the most German Player
+      of the Year awards (5). He made his senior debut for the Germany national team
+      in 2009 at age 20, and appeared in five major tournaments. He was the top assist
+      provider at the 2010 FIFA World Cup and UEFA Euro 2012, where he helped Germany
+      twice reach the semi-final. \xD6zil helped Germany win the 2014 FIFA World
+      Cup, but retired from international competition in 2018, alleging discrimination
+      and disrespect by the German Football Association (DFB) and the German media."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: 084ac7ef283f1b44bbc5eaca783ec12c, type: 3}
+  - oorworosdofsdf: 0
+    id: 10
+    fsdfksdfsdkf: Mats Hummels
+    rkwekksdfkskdf: "Mats Julian Hummels (born 16 December 1988) is a German professional
+      footballer who plays as a central defender for Borussia Dortmund and the Germany
+      national team. He came through the Bayern Munich youth academy before joining
+      Borussia Dortmund on loan in January 2008 and officially signing for Dortmund
+      in February 2009 for \u20AC4 million. His honours at the club include two league
+      titles and finishing as runner up in the 2012\u201313 UEFA Champions League.
+      In May 2016, Hummels signed a contract with former side Bayern, which took
+      effect on 1 July 2016.Hummels has been a full international since 2010, earning
+      over 70 caps until date and representing Germany at UEFA Euro 2012, 2014 FIFA
+      World Cup, UEFA Euro 2016 and 2018 FIFA World Cup."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: 028f796bec72b1742a23a439b652457d, type: 3}
+  - oorworosdofsdf: 0
+    id: 11
+    fsdfksdfsdkf: Joshua Kimmich
+    rkwekksdfkskdf: "Joshua Walter Kimmich (born 8 February 1995) is a German professional
+      footballer who plays as a right back for Bayern Munich and the Germany national
+      team. On 9 September, he scored his first goal for FC Bayern in a 2-0 Bundesliga,
+      away win at FC Schalke 04. Four days later, he scored his first two Champions
+      League goals in a 5\x960 home win against FC Rostov. On 24 September, Kimmich
+      recorded his fourth goal in four matches with the winning strike in the 88th
+      minute of a 1\x960 win at Hamburger SV."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: 4db833bad4e0f394cbb28cfb5045d4cf, type: 3}
+  - oorworosdofsdf: 0
+    id: 12
+    fsdfksdfsdkf: "J\xE9r\xF4me Boateng"
+    rkwekksdfkskdf: "J\xE9r\xF4me Agyenim Boateng (born 3 September 1988) is a German
+      professional footballer who plays as a centre-back for Ligue 1 club Lyon. Boateng
+      played in the Germany under-21 side, which won the 2009 Euro U-21 Championship
+      and was soon promoted to the national side. Boateng has since accumulated over
+      70 caps and represented Germany at UEFA Euro 2012, Euro 2016, 2010 World Cup,
+      2014 World Cup, and 2018 World Cup. He was a key member of his country's victory
+      in the 2014 World Cup. He is the younger half-brother of fellow footballer
+      Kevin-Prince Boateng."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: 557cc7c416624b7448a8cd93c90b6bea, type: 3}
+  - oorworosdofsdf: 0
+    id: 13
+    fsdfksdfsdkf: Lukas Podolski
+    rkwekksdfkskdf: "Lukas Josef Podolski (German pronunciation: [\u02C8lu\u02D0kas
+      po\u02C8d\u0254lski]; born \u0141ukasz J\xF3zef Podolski (IPA: [\u02C8wuka\u0282
+      p\u0254\u02C8d\u0254lsk\u02B2i]) on 4 June 1985) is a German professional footballer
+      who plays as a forward for Japanese side Vissel Kobe. He is regarded as one
+      of the best German players of his generation, and among the best finishers
+      in world football. Famed for his extremely powerful and accurate left foot,
+      he is known for his explosive shot, technique and probing attacks from the
+      left side.He joined 1. FC K\xF6ln in 1995 where he made it into the first team
+      in 2003 resulting in 81 appearances for the club before moving to Bayern Munich.
+      With Bayern, Podolski won the Bundesliga and DFB-Pokal double in 2008. Podolski
+      returned to 1. FC K\xF6ln in 2009."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: 07fef1e42ecfd094d8d784c3aee63060, type: 3}
+  - oorworosdofsdf: 0
+    id: 14
+    fsdfksdfsdkf: "Marc-Andr\xE9 ter Stegen"
+    rkwekksdfkskdf: "Marc-Andr\xE9 ter Stegen (born 30 April 1992) is a German professional
+      footballer who plays as a goalkeeper for the Spanish club Barcelona and the
+      Germany national team.After four seasons in the Bundesliga with Borussia M\xF6nchengladbach,
+      making 108 league appearances, he joined Barcelona for \u20AC12 million in
+      2014. He won the treble in his first season in Spain, playing for Barcelona
+      in Copa del Rey and UEFA Champions League. Ter Stegen represented Germany at
+      several youth levels and made his senior international debut in 2012. He was
+      part of the German squads that reached the semi-finals of UEFA Euro 2016 and
+      won the 2017 FIFA Confederations Cup, and was also a member of the German side
+      that took part at the 2018 FIFA World Cup."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: c3d63f215a2d70040b558f48e7d73a5c, type: 3}
+  - oorworosdofsdf: 0
+    id: 15
+    fsdfksdfsdkf: Leon Goretzka
+    rkwekksdfkskdf: Leon Christoph Goretzka (born 6 February 1995) is a German professional
+      footballer who plays as a midfielder for Bundesliga club Bayern Munich and
+      the Germany national team.
+    eqwjjjwjejfjds: {fileID: 21300000, guid: 68490fbe04c6f3e4f866537d6137fcc6, type: 3}
+  - oorworosdofsdf: 0
+    id: 16
+    fsdfksdfsdkf: Jens Lehmann
+    rkwekksdfkskdf: "Jens Gerhard Lehmann (pronounced [\u02C8j\u025Bns \u02C8le\u02D0man];
+      born 10 November 1969) is a retired German footballer who played as a goalkeeper.
+      He was voted UEFA Club Goalkeeper of the Year for the 1996\u201397 and 2005\u201306
+      seasons, and was selected for three World Cup squads. He was a member of Arsenal's
+      'Invincibles', playing every match of their unbeaten title-winning season in
+      2003-04. He also holds the UEFA Champions League record for the most consecutive
+      clean sheets, not conceding a single goal in 10 consecutive matches while he
+      played for Arsenal."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: 4d0d9f967aea6ea4c8c4990ceeb8ecee, type: 3}
+  - oorworosdofsdf: 0
+    id: 17
+    fsdfksdfsdkf: Mario Gomez
+    rkwekksdfkskdf: "Mario G\xF3mez Garc\xEDa (German pronunciation: [\u02C8ma\u02D0\u0281i\u032Fo\u02D0
+      \u02C8\u0261\u0254m\u025Bs]; born 10 July 1985) is a German professional footballer
+      who plays as a striker for VfB Stuttgart. He represented the Germany national
+      team over a period of 11 years between 2007 and 2018. He began his professional
+      career with VfB Stuttgart, and when they became champions in 2006\u201307,
+      G\xF3mez contributed 14 goals and 7 assists at age 21 and was selected as German
+      Footballer of the Year. In 2009, he signed for Bayern Munich for an estimated
+      \u20AC30\u201335 million, then a league record. With Bayern Munich, G\xF3mez
+      was the Bundesliga top scorer in 2011, and helped the team to seven honours,
+      including the UEFA Champions League in 2013. He then left for Serie A team
+      Fiorentina for a \u20AC20 million fee in 2013, and was affected by injury during
+      his time in Italy. G\xF3mez was loaned to Turkey's Be\u015Fikta\u015F in 2015
+      and was top scorer as they won the S\xFCper Lig, then subsequently returned
+      to Germany by joining VfL Wolfsburg."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: d0030b63f70490845ac860246ef40666, type: 3}
+  - oorworosdofsdf: 0
+    id: 18
+    fsdfksdfsdkf: "Mario G\xF6tze"
+    rkwekksdfkskdf: "Mario G\xF6tze (born 3 June 1992) is a German professional footballer
+      who plays for Bundesliga club Eintracht Frankfurt. Although his favoured position
+      is that of a playmaker, G\xF6tze has also played as a false nine or as an emergency
+      striker. He played for Borussia Dortmund between 2009 and 2013, winning the
+      Bundesliga title in 2010\u201311 and the Bundesliga and DFB-Pokal double in
+      2011\u201312, and was a member of the team which reached the 2013 UEFA Champions
+      League Final. In April 2013, a \u20AC37 million bid from Bayern Munich triggered
+      a release clause in G\xF6tze's contract, making him the second-most expensive
+      German player at the time, behind Mesut \xD6zil. He spent three seasons with
+      the club where he won a further three league titles, two DFB-Pokal trophies
+      and a winners' medal in each of the FIFA Club World Cup and UEFA Super Cup.
+      He then returned to Dortmund in 2016, where he added another DFB-Pokal title
+      and a DFL-Supercup to his name."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: b4758f4be46936d44aa0b0fcc07d3f8e, type: 3}
+  - oorworosdofsdf: 0
+    id: 19
+    fsdfksdfsdkf: Sami Khedira
+    rkwekksdfkskdf: "Sami Khedira (German pronunciation: [\u02C8sa\u02D0mi\u02D0
+      xe\u02C8di\u02D0\u0281a\u02D0]; born 4 April 1987) is a German professional
+      footballer who plays as a central midfielder for Serie A club Juventus and
+      the Germany national team.He began his career at VfB Stuttgart, winning the
+      Bundesliga in 2007, before moving to Real Madrid in 2010. In his five seasons
+      in Spain, he won seven domestic and international trophies, including the UEFA
+      Champions League in 2014. In 2015, he moved to Italian side Juventus on a free
+      transfer, and won the Serie A title and Coppa Italia in his first three seasons
+      with the club. A full international for Germany since 2009, Khedira has earned
+      over 75 caps for the national team. He has taken part at three FIFA World Cups
+      and two UEFA European Championships with Germany, and was part of their squads
+      which reached the semi-finals at the 2010 FIFA World Cup, as well as the 2012
+      and 2016 UEFA European Football Championships; he also won the 2014 FIFA World
+      Cup."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: 5e848a97dcd1ff14eae132cb721de6cd, type: 3}
+  - oorworosdofsdf: 0
+    id: 20
+    fsdfksdfsdkf: Leroy Sane
+    rkwekksdfkskdf: "Leroy Aziz San\xE9 (born 11 January 1996) is a German professional
+      footballer who plays as a winger for Bundesliga club Bayern Munich and the
+      German national team. San\xE9 made his professional debut for Schalke 04 in
+      2014 and transferred to Manchester City in 2016 for an initial \xA337 million
+      fee. He was voted PFA Young Player of the Year in 2017\u201318, becoming the
+      first and only German player to win the award; after helping City win the Premier
+      League and EFL Cup, a feat the side bettered by winning a domestic treble the
+      following season. San\xE9 made his senior international debut for Germany in
+      November 2015 and was part of their squad that reached the semi-finals of UEFA
+      Euro 2016."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: 7ec77a276e833eb49abadc5b025c286f, type: 3}
   currentItem:
-    playerType: 3
-    id: 6
-    playerName: Lev Yashin
-    playerInfo: "Lev Yashin is perhaps the best goalkeeper of all time. He is the
-      only goalkeeper in football history to win the Ballon d'Or (1963). He revolutionized
-      the goalkeeping career with his superb performances and new style of play which
-      led to him being named the greatest goalkeeper of the 20th century by FIFA.
-      Lev Yashin leads the USSR to final victory at the 1956 Olympics and Euro 1960.
-      The Russian goalkeeper also helps his team reach the semi-finals of the 1966
-      World Cup. But Yashin has a long career, strewn with titles at his club Dynamo.
-      \u201CBlack Spider,\u201D as he was called, played 365 matches with Dynamo
-      Moscow and won the USSR championship 4 times. He has more than 150 penalties
-      and 270 clean sheets in his career. Lev Yashin was also voted the best goalkeeper
-      in Europe 9 times between 1956 and 1966."
-    playerPhoto: {fileID: 21300000, guid: 1058a008e52fced4b972e2f157b1f68a, type: 3}
+    oorworosdofsdf: 0
+    id: 20
+    fsdfksdfsdkf: Leroy Sane
+    rkwekksdfkskdf: "Leroy Aziz San\xE9 (born 11 January 1996) is a German professional
+      footballer who plays as a winger for Bundesliga club Bayern Munich and the
+      German national team. San\xE9 made his professional debut for Schalke 04 in
+      2014 and transferred to Manchester City in 2016 for an initial \xA337 million
+      fee. He was voted PFA Young Player of the Year in 2017\u201318, becoming the
+      first and only German player to win the award; after helping City win the Premier
+      League and EFL Cup, a feat the side bettered by winning a domestic treble the
+      following season. San\xE9 made his senior international debut for Germany in
+      November 2015 and was part of their squad that reached the semi-finals of UEFA
+      Euro 2016."
+    eqwjjjwjejfjds: {fileID: 21300000, guid: 7ec77a276e833eb49abadc5b025c286f, type: 3}
